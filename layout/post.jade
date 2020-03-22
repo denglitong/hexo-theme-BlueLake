@@ -23,6 +23,9 @@ block content
               i= '' + __('hits')
     .post-content
       != page.content
+    if theme.donate.enabled == true
+      script(type='text/javascript', src=url_for(theme.js) + '/jquery.js' + '?v=' + theme.version, async)
+      include _partial/donate
     if theme.copyright.enable
       .post-copyright
         blockquote

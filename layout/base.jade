@@ -39,6 +39,7 @@ html(lang='#{config.language}')
       link(rel='alternate', type=feed_type, href=url_for(config.feed.path))
     if theme.comment.gitalk.enable
       link(rel='stylesheet', type='text/css', href="https://unpkg.com/gitalk/dist/gitalk.css?v=" + theme.version)
+    link(rel='stylesheet', type='text/css', href=url_for(theme.css) + '/donate.css')
     block title
 
   body
