@@ -130,8 +130,8 @@ about:
   photo_url: ../images/denglitong.png ## Your photo e.g. http://cdn.chaooo.top/blog/themeauthor.jpg
   items:
   - label: email
-    url: mailto:litongdeng@gmail.com ## Your email with mailto: e.g.  mailto:zhenggchaoo@gmail.com
-    title: litongdeng@gmail.com ## Your email e.g.  zhenggchaoo@gmail.com
+    url: mailto:litong.deng@foxmail.com ## Your email with mailto: e.g.  mailto:zhenggchaoo@gmail.com
+    title: litong.deng@foxmail.com ## Your email e.g.  zhenggchaoo@gmail.com
   - label: github
     url: https://github.com/denglitong ## Your github'url e.g.  https://github.com/chaooo
     title: denglitong ## Your github'name e.g.  chaooo
