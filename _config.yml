@@ -151,7 +151,7 @@ links:
   #   url: 
 # 开启赞赏    
 donate:
-  enabled: true
+  enabled: false
   message: 坚持原创技术分享，您的支持将鼓励我继续创作！
   wechatpay: /img/weixin_pay_qrcode.png
   alipay: /img/alipay_qrcode.png
